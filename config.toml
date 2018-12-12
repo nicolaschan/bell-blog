@@ -1,0 +1,63 @@
+baseurl = "https://blog.bell.plus"
+languageCode = "en"
+title = "bell.plus Developer Blog"
+theme = "kiss"
+copyright = ""
+disqusShortname = ""
+googleAnalytics = ""
+# Number of posts per page
+Paginate = 5
+enableRobotsTXT = true
+
+
+[params.assets]
+customCSS = ["css/custom.css"]
+
+[params.rss]
+
+includeContent = true # Includes whole content in rss
+authorName = "bell.plus Developers" # Site author's full name
+authorEmail = "hello@bell.plus"
+
+[params.info]
+adsense = "" # Adsense ID (ID only, without ca-pub-)
+enableSocial = false # Adds OpenGraph and Twitter cards
+homeTitle = "" # Title for home page
+poweredby = false # Adds powered by Hugo and Kiss below Copyright section
+related = false # Includes related articles
+
+[params.opengraph.facebook]
+admins = [] # array of Facebook IDs
+appID = ""
+pageID = ""
+
+[params.opengraph.twitter]
+page = "" # Twitter Page username. If not set, params.social.twitter will be used.
+
+[params.social]
+
+twitter = ""
+github = "nicolaschan/bell"
+email = "hello@bell.plus"
+linkedin = ""
+gitlab = ""
+instagram = ""
+codepen = ""
+facebook = ""
+
+[params.social.config]
+platforms = ["github","email"]
+
+[params.matomoAnalytics]
+siteID = 1
+rootURL = ""
+
+[params.fathomAnalytics]
+rootURL = ""
+
+[taxonomies]
+tag ="tags"
+
+[blackfriday]
+hrefTargetBlank = true
+
