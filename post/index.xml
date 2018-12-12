@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on bell.plus Developer Blog</title>
+    <link>https://blog.bell.plus/post/</link>
+    <description>Recent content in Posts on bell.plus Developer Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 11 Dec 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.bell.plus/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>(Re-)Introducing the Blog</title>
+      <link>https://blog.bell.plus/post/introducing-blog/</link>
+      <pubDate>Tue, 11 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.bell.plus/post/introducing-blog/</guid>
+      <description>Welcome to the new bell developer blog! When bell first came out as bell.lahs.club, we used to have a small blog where we made a few posts about the development process. Since then, the primary bell developers have graduated from Los Altos High School and have passed along the responsibility of managing the LAHS schedules to the LAHS Hack Club, so it makes sense to have a separate blog just about the development process while the Hack Club makes announcements specific to LAHS on their Instagram account.</description>
+    </item>
+    
+    <item>
+      <title>End of the year</title>
+      <link>https://blog.bell.plus/post/end-of-the-year/</link>
+      <pubDate>Mon, 22 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.bell.plus/post/end-of-the-year/</guid>
+      <description>What a weird experience. Last semester, I was fed up with remembering the schedule so I made a timer. Then lots of people started using my timer. And before I knew it, the news of my fancy timer had spread like wildfire across the school, generating hundreds of hits per day from teachers and students alike.
+I’d like to know what you all thought about using my timer, so I made a short survey.</description>
+    </item>
+    
+    <item>
+      <title>-4294967295</title>
+      <link>https://blog.bell.plus/post/-4294967295/</link>
+      <pubDate>Sun, 21 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.bell.plus/post/-4294967295/</guid>
+      <description>Nicolas approached me a couple days ago and told me he would be starting a blog for bell.lahs.club, which is especially interesting given that we’ll be graduating in less than two weeks. I’m told the domain is being passed on though, so I guess this is for posterity.
+I guess an introduction is in order. I’m Jonathan Shi, graduating senior, headed to Berkeley in EECS next year. I wrote the Chrome extension for bell (which is the reason Nick said I could write a post, downloadable here), and I’m one of Nick’s roommates next year.</description>
+    </item>
+    
+  </channel>
+</rss>
