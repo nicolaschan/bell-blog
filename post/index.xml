@@ -6,10 +6,20 @@
     <description>Recent content in Posts on bell.plus Developer Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 11 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://blog.bell.plus/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>How does bell synchronize?</title>
+      <link>https://blog.bell.plus/post/bell-correction/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.bell.plus/post/bell-correction/</guid>
+      <description>As the first of the (hopefully) monthly posts, let&amp;rsquo;s talk about one of the earliest &amp;ldquo;discoveries&amp;rdquo; I made when I first made bell: the school bell is not actually on time (usually).
+Most of the time, the school bell is only a couple of seconds off of the correct time, so not many people noticed until I made the bell website. (It has been much farther off from correct before.)</description>
+    </item>
     
     <item>
       <title>(Re-)Introducing the Blog</title>
