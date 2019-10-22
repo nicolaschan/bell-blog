@@ -1,8 +1,8 @@
-+++
-title = "Contact"
-date = "2019-10-22"
-menu = "main"
-+++
+---
+date: 2019-10-22
+linktitle: Contact
+title: Contact
+---
 
 # Contact
 
@@ -11,4 +11,3 @@ menu = "main"
 To request that your school be added or any other suggestions, send an email to [hello@bell.plus](mailto:hello@bell.plus).
 
 You may also email me with bug reports, but I would prefer if you [open an issue on GitHub](https://github.com/nicolaschan/bell/issues).
-
