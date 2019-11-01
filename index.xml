@@ -19,9 +19,9 @@
       <guid>https://blog.bell.plus/contact/</guid>
       <description></description>
       
-      <content>&lt;p&gt;&lt;strong&gt;When requesting a school schedule be added, please include a link to the bell schedule on the school&amp;rsquo;s website. We do not currently accept middle/elementary schools.&lt;/strong&gt;&lt;/p&gt;
+      <content>&lt;p&gt;&lt;strong&gt;When requesting a school schedule be added, please include a link to the bell schedule on the school&amp;rsquo;s website.&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;To request that your school be added or any other suggestions, send an email to &lt;a href=&#34;mailto:hello@bell.plus&#34; target=&#34;_blank&#34;&gt;hello@bell.plus&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;To request that your school be added or any other suggestions, send an email to &lt;a href=&#34;mailto:hello@bell.plus&#34; target=&#34;_blank&#34;&gt;hello@bell.plus&lt;/a&gt;. I will try to respond within 24 hours. If you cannot wait for your school to be added, you can also select the &amp;ldquo;Custom&amp;rdquo; option and enter it yourself.&lt;/p&gt;
 
 &lt;p&gt;You may also email me with bug reports, but I would prefer if you &lt;a href=&#34;https://github.com/nicolaschan/bell/issues&#34; target=&#34;_blank&#34;&gt;open an issue on GitHub&lt;/a&gt;.&lt;/p&gt;
 </content>
